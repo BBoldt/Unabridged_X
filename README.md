@@ -4,6 +4,7 @@
 
 ## 📥 Download & Modlist  
 🔗 **[Full Modlist](https://gist.github.com/BBoldt/e697e3839cd1ef064604762ba2285dbc)**  
+🔗 **[Download on Curseforge](https://www.curseforge.com/minecraft/modpacks/unb-x)**  
 
 ## 📢 Discussion & Issue Reporting  
 - **💬 Discord:** [Join Here](https://discord.com/invite/wV3jFx7F2e)  
