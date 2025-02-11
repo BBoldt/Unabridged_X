@@ -1,0 +1,70 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "harvest_tier": "gobber2:end_gobber",
+  "availability": {
+    "tier": 5,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "subs": {
+      "rod": {
+        "tag": "forge:rods/gobber_rod_end"
+      }
+    }
+  },
+  "name": {
+    "text": "End Gobber Rod"
+  },
+  "stats": {
+    "rod": {
+      "durability": {
+        "mul2": 0.3
+      },
+      "harvest_speed": {
+        "add": 3.0
+      },
+      "melee_damage": {
+        "add": 3.0
+      },
+      "ranged_speed": {
+        "add": 0.24
+      },
+      "ranged_damage": {
+        "mul2": -0.3
+      },
+      "rarity": 30.0
+    }
+  },
+  "traits": {
+    "rod": [
+      {
+        "name": "silentgear:accelerate",
+        "level": 3
+      },
+      {
+        "name": "silentgear:hard",
+        "level": 2
+      }
+    ]
+  },
+  "model": {
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_hc",
+        "color": "#28EBA0"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#28EBA0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "gobber2:dragon_elytra"
+  },
+  "base": {
+    "item": "gobber2:gobber2_chestplate_end"
+  },
+  "result": {
+    "item": "gobber2:gobber2_chestplate_dragon"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

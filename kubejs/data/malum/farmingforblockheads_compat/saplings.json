@@ -1,0 +1,13 @@
+{
+  "customEntries": [
+    {
+      "output": {
+        "item": "malum:runewood_sapling"
+      },
+      "payment": {
+        "item": "malum:processed_soulstone"
+      },
+      "category": "saplings"
+    }
+  ]
+}

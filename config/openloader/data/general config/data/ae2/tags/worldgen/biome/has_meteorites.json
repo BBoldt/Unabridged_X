@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#minecraft:is_overworld",
+      "required": false
+    },
+    {
+      "id": "#ad_astra:is_on_a_planet",
+      "required": false
+    }
+  ]
+}

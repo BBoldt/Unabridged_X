@@ -1,0 +1,28 @@
+{
+  "values": [
+    "#minecraft:freeze_immune_entity_types",
+    "minecraft:snow_golem",
+    "minecraft:stray",
+    "ad_astra:corrupted_lunarian",
+    "ad_astra:star_crawler",
+    "ad_astra:martian_raptor",
+    "ad_astra:lunarian",
+    "mowziesmobs:umvuthi",
+    "mowziesmobs:umvuthana_crane",
+    "mowziesmobs:umvuthana_follower_raptor",
+    "mowziesmobs:umvuthana_raptor",
+    "mowziesmobs:umvuthana",
+    "mowziesmobs:frostmaw",
+    "mythicmounts:acencia",
+    "mythicmounts:direwolf",
+    "mythicmounts:griffon",
+    "mythicmounts:nudibranch",
+    "mythicmounts:dragon",
+    "mythicmounts:firebird",
+    "mythicmounts:griffon",
+    "mythicmounts:geckotoalizard",
+    "mythicmounts:netherbat",
+    "mythicmounts:nightmare",
+    "mythicmounts:ridinglizard"
+  ]
+}

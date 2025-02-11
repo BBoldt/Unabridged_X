@@ -1,0 +1,16 @@
+{
+  "loot_table": "distorted_discs:chests/distorted_1",
+  "max_result_itemcount": 15,
+  "integrated_loot_tables": {
+    "minecraft:chests/woodland_mansion": 1,
+    "minecraft:chests/spawn_bonus_chest": 1,
+    "minecraft:chests/simple_dungeon": 1,
+    "minecraft:chests/pillager_outpost": 1,
+	"minecraft:chests/jungle_temple": 1,
+	"minecraft:chests/igloo_chest": 1,
+	"minecraft:chests/desert_pyramid": 1,
+	"minecraft:chests/abandoned_mineshaft": 1,
+	"awesomedungeon:chests/awesome_dungeon": 1,
+	"dungeoncrawl:chests/secret_room": 1
+  }
+}

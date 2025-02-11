@@ -1,0 +1,19 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "#minecraft:is_overworld",
+    "ad_astra:glacio_ice_peaks",
+    "ad_astra:glacio_snowy_barrens",
+    "ad_astra:infernal_venus_barrens",
+    "ad_astra:lunar_wastelands",
+    "ad_astra:martian_canyon_creek",
+    "ad_astra:martian_polar_caps",
+    "ad_astra:martian_wastelands",
+    "ad_astra:mercury_deltas",
+    "ad_astra:venus_wastelands"
+  ],
+  "features": [
+    "gtceu:raw_oil_sprout"
+  ],
+  "step": "fluid_springs"
+}

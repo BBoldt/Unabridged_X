@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "ad_astra:martian_wastelands",
+    "ad_astra:martian_canyon_creek",
+    "biomeswevegone:mojave_desert",
+    "biomeswevegone:atacama_outback"
+  ],
+  "spawners": {
+    "type": "mythicmounts:geckotoalizard",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

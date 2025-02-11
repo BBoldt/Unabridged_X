@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "ad_astra:infernal_venus_barrens",
+    "biomeswevegone:basalt_barrera",
+    "biomeswevegone:firecracker_chaparral"
+  ],
+  "spawners": {
+    "type": "mythicmounts:firebird",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

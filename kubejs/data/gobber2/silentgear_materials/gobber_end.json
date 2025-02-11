@@ -1,0 +1,104 @@
+{
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/gobber_end"
+      }
+    }
+  ],
+  "harvest_tier": "gobber2:end_gobber",
+  "availability": {
+    "tier": 5,
+    "visible": true,
+    "gear_blacklist": []
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:ingots/gobber_end"
+    }
+  },
+  "name": {
+    "text": "End Gobber"
+  },
+  "stats": {
+    "main": {
+      "durability": 8000.0,
+      "armor_durability": 100.0,
+      "enchantability": 24.0,
+      "harvest_level": 7.0,
+      "harvest_speed": 13.0,
+      "melee_damage": 4.0,
+      "melee_damage/sword": 9.0,
+      "melee_damage/pickaxe": 3.0,
+      "melee_damage/axe": 7.0,
+      "melee_damage/paxel": 9.0,
+      "melee_damage/shovel": 4.5,
+      "melee_damage/mattock": -4.0,
+      "melee_damage/hammer": 4.0,
+      "melee_damage/excavator": 4.0,
+      "magic_damage": 7.0,
+      "attack_speed": 0.0,
+      "attack_speed/sword": 0.4,
+      "attack_speed/pickaxe": 0.4,
+      "attack_speed/mattock": 4.6,
+      "armor": 34.0,
+      "armor/helmet": 8.0,
+      "armor/chestplate": 13.0,
+      "armor/leggings": 11.0,
+      "armor/boots": 8.0,
+      "armor_toughness": 12.0,
+      "magic_armor": 22.0,
+      "ranged_damage": 2.7,
+      "ranged_speed": 1.0,
+      "projectile_speed": 2.0,
+      "projectile_accuracy": 1.5,
+      "rarity": 121.0,
+      "chargeability": 1.4
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:light",
+        "level": 3,
+        "conditions": [
+          {
+            "type": "silentgear:material_ratio",
+            "ratio": 0.5
+          }
+        ]
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 3
+      },
+      {
+        "name": "silentgear:crushing",
+        "level": 1
+      },
+      {
+        "name": "silentgear:venom",
+        "level": 1
+      }
+    ]
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_hc",
+        "color": "#4B9AC5"
+      },
+      {
+        "texture": "silentgear:_highlight"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#4B9AC5"
+      }
+    ]
+  }
+}

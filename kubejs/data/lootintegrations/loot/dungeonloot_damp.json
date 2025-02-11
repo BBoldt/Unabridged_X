@@ -1,0 +1,11 @@
+{
+  "loot_table": "distorted_discs:chests/damp_1",
+  "max_result_itemcount": 15,
+  "integrated_loot_tables": {
+    "minecraft:chests/underwater_ruin_small": 1,
+    "minecraft:chests/underwater_ruin_big": 1,
+    "minecraft:chests/shipwreck_treasure": 1,
+    "minecraft:chests/buried_treasure": 1,
+	"awesomedungeonocean:chests/awesome_dungeon": 1
+  }
+}

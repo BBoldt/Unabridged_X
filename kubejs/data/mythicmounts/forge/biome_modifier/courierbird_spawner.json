@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:jungle",
+    "minecraft:sparse_jungle",
+    "minecraft:bamboo_jungle",
+    "biomeswevegone:tropical_rainforest",
+    "biomeswevegone:fragment_jungle",
+    "biomeswevegone:overgrowth_woodlands"
+  ],
+  "spawners": {
+    "type": "mythicmounts:courierbird",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

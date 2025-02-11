@@ -1,0 +1,12 @@
+{
+  "loot_table": "distorted_discs:chests/dimensional_1",
+  "max_result_itemcount": 15,
+  "integrated_loot_tables": {
+    "minecraft:chests/stronghold_library": 1,
+    "minecraft:chests/end_city_treasure": 1,
+    "minecraft:chests/ancient_city": 1,
+    "awesomedungeonend:chests/awesome_dungeon": 1,
+	"endlessbiomes:chests/bulwark_treasure_loot": 1,
+	"endlessbiomes:chests/resistive_bulwark_treasure_loot": 1
+  }
+}

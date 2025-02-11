@@ -1,0 +1,90 @@
+{
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/gobber_nether"
+      }
+    }
+  ],
+  "harvest_tier": "gobber2:nether_gobber",
+  "availability": {
+    "tier": 4,
+    "visible": true,
+    "gear_blacklist": []
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:ingots/gobber_nether"
+    }
+  },
+  "name": {
+    "text": "Nether Gobber"
+  },
+  "stats": {
+    "main": {
+      "durability": 5200.0,
+      "armor_durability": 83.0,
+      "enchantability": 20.0,
+      "harvest_level": 6.0,
+      "harvest_speed": 12.0,
+      "melee_damage": 4.0,
+      "melee_damage/sword": 7.0,
+      "melee_damage/pickaxe": 3.0,
+      "melee_damage/axe": 4.0,
+      "melee_damage/paxel": 6.0,
+      "melee_damage/shovel": 3.5,
+      "melee_damage/mattock": -4.0,
+      "melee_damage/hammer": 3.0,
+      "melee_damage/excavator": 3.0,
+      "magic_damage": 6.0,
+      "attack_speed": 0.0,
+      "attack_speed/sword": 0.4,
+      "attack_speed/pickaxe": 0.4,
+      "attack_speed/mattock": 4.6,
+      "armor": 28.0,
+      "armor/helmet": 7.0,
+      "armor/chestplate": 12.0,
+      "armor/leggings": 10.0,
+      "armor/boots": 7.0,
+      "armor_toughness": 11.0,
+      "magic_armor": 17.0,
+      "ranged_damage": 2.0,
+      "ranged_speed": 1.0,
+      "projectile_speed": 1.5,
+      "projectile_accuracy": 1.3,
+      "rarity": 102.0,
+      "chargeability": 1.4
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:flame_ward",
+        "level": 1
+      },
+      {
+        "name": "silentgear:chilled",
+        "level": 2
+      }
+    ]
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_hc",
+        "color": "#BA2660"
+      },
+      {
+        "texture": "silentgear:_highlight"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#BA2660"
+      }
+    ]
+  }
+}

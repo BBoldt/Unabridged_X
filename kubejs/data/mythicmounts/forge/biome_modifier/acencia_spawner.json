@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:grove",
+    "minecraft:snowy_taiga",
+    "biomeswevegone:frosted_coniferous_forest",
+    "biomeswevegone:maple_taiga",
+    "ad_astra:glacio_snowy_barrens"
+  ],
+  "spawners": {
+    "type": "mythicmounts:acencia",
+    "weight": 15,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

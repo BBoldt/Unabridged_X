@@ -1,0 +1,13 @@
+{
+  "loot_table": "distorted_discs:chests/demonic_1",
+  "max_result_itemcount": 15,
+  "integrated_loot_tables": {
+    "minecraft:chests/village/village_temple": 1,
+    "minecraft:chests/ruined_portal": 1,
+    "minecraft:chests/nether_bridge": 1,
+    "minecraft:chests/bastion_treasure": 1,
+	"minecraft:chests/bastion_bridge": 1,
+	"awesomedungeonnether:chests/awesome_dungeon": 1,
+	"bygonenether:chests/citadel": 1
+  }
+}
